@@ -1,1 +1,4 @@
 # cpp-questions
+
+
+THESE ARE SOME OF THE BASIC CPP PROBLEMS.
